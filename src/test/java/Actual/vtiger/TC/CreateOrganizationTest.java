@@ -26,7 +26,7 @@ public void createorg() {
     String header = oip.getHeader();
     //verify
     Assert.assertTrue(header.contains("Sushant"));
-    System.out.println("==ORGANIZATION is created and TC is Pass==");
+    System.out.println("==ORGANIZATION is created and TC is Passed==");
 }
 
 }
